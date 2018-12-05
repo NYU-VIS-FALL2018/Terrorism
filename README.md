@@ -1,15 +1,9 @@
-# Project Name
-**Authors**: Jhon Doe (jd2545), Mark Smith (ms4568)
+# Comparing Al Qaeda, Taliban and ISIS: Different goals, different targets
+**Authors**: Apoorva Shukla (as11445), Akanksha Nilosey (arn337), Reema Singhal (rrs459)
 
-Group X (Online: Group Y) 
+Group 10 - Offline
 
-![Screenhot](screenshot.jpg)
 
 
 ## About
-In this project we ...
-
-## More
-[DEMO](https://nyu-vis-fall2018.github.io/project-template/)
-
-[Project Descrioption](project.pdf)
+In this project we 
