@@ -14,4 +14,4 @@ Insights: We find that terrorist groups such as Al-Qaeda, ISIS and Taliban are t
 ## More
 [DEMO](https://nyu-vis-fall2018.github.io/Terrorism/)
 
-[Project Descrioption](https://github.com/NYU-VIS-FALL2018/Terrorism/blob/master/A%20Closer%20look%20into%20Terrorism.pdf)
+[Project Description](https://github.com/NYU-VIS-FALL2018/Terrorism/blob/master/A%20Closer%20look%20into%20Terrorism.pdf)
