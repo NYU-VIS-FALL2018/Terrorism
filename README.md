@@ -13,6 +13,6 @@ We started off this project with our focus on global terrorism and its impact. A
 Insights: We find that terrorist groups such as Al-Qaeda, ISIS and Taliban are the major organizations from the bubble graph which have made the maximum number of attacks. We can see that maximum number of attacks made by Taliban across the past few years particularly 2000’s.
 
 ## More
-[DEMO](https://nyu-vis-fall2018.github.io/project-template/)
+[DEMO](https://nyu-vis-fall2018.github.io/Terrorism/)
 
 [Project Descrioption](project.pdf)
