@@ -1,6 +1,5 @@
-# Project Name
+# A Closer look into Terrorism
 
-A Closer look into Terrorism
 
 **Authors**: Apoorva Shukla (as11445), Akanksha Nilosey (arn337), Reema Singhal (rrs459)
 
